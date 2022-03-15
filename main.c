@@ -89,7 +89,7 @@ void execute_action(int action) {
 int main()
 {
     printf("COUNTY LIBRARY SYSTEM!\n");
-    printf("Welcome Mr. Antony!\n");
+    printf("Welcome Mr. ERIC!\n");
     printf("What would you like to do?\n");
     execute_action(menu());
     return 0;
